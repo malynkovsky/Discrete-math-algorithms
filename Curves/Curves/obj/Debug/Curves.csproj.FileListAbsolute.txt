@@ -1,0 +1,10 @@
+C:\Users\malyn\Desktop\Curves\Curves\bin\Debug\Curves.exe.config
+C:\Users\malyn\Desktop\Curves\Curves\bin\Debug\Curves.exe
+C:\Users\malyn\Desktop\Curves\Curves\bin\Debug\Curves.pdb
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.csprojResolveAssemblyReference.cache
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.Form1.resources
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.Properties.Resources.resources
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.csproj.GenerateResource.cache
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.csproj.CoreCompileInputs.cache
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.exe
+C:\Users\malyn\Desktop\Curves\Curves\obj\Debug\Curves.pdb
